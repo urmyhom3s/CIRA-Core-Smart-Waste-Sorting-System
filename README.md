@@ -1,0 +1,1 @@
+This project was completed during the CIRA Core workshop. I learned how to design and configure an AI model to classify trash into the correct bins and collaborated with my team to create a working prototype.
