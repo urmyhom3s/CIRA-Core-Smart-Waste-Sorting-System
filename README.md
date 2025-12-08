@@ -3,5 +3,5 @@ This project was completed during GTC: CIRA Core Camp #3. I participated as a hi
 This project helped me learn the basics of training AI models and understanding how data flows through a system, even as a beginner.
 
 Project Files
-	•	Node-based project: project_files/garbage.npj
-	•	Slides / documentation: docs/presentation.pdf
+	•	Node-based project: garbage.npj
+	•	Slides / documentation: presentation.pdf
